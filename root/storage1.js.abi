@@ -1,0 +1,49 @@
+{
+    "lang": "javascript",
+    "version": "1.0.0",
+    "abi": [
+        {
+            "name": "can_update",
+            "args": [
+                "string"
+            ],
+            "amountLimit": []
+        },
+        {
+            "name": "putString",
+            "args": [
+                "string"
+            ],
+            "amountLimit": []
+        },
+        {
+            "name": "getString",
+            "args": [],
+            "amountLimit": []
+        },
+        {
+            "name": "putNumber",
+            "args": [
+                "number"
+            ],
+            "amountLimit": []
+        },
+        {
+            "name": "getNumber",
+            "args": [],
+            "amountLimit": []
+        },
+        {
+            "name": "putBool",
+            "args": [
+                "bool"
+            ],
+            "amountLimit": []
+        },
+        {
+            "name": "getBool",
+            "args": [],
+            "amountLimit": []
+        }
+    ]
+}

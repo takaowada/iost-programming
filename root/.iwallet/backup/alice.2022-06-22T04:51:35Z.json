@@ -1,0 +1,15 @@
+{
+  "name": "alice",
+  "keypairs": {
+    "active": {
+      "raw_key": "5Bey9NdadXtZ1ULEPhtehpFuasYFNyuqNSBirVzWjMiureHgVjEMbEVroZnhHm25MXMEh4SjhvyYD5edc9xgRw5B",
+      "key_type": "ed25519",
+      "public_key": "9Xv7upypzbbegCUr64yVPwbeDrR4YpaNV7X48GQTW6hF"
+    },
+    "owner": {
+      "raw_key": "5Bey9NdadXtZ1ULEPhtehpFuasYFNyuqNSBirVzWjMiureHgVjEMbEVroZnhHm25MXMEh4SjhvyYD5edc9xgRw5B",
+      "key_type": "ed25519",
+      "public_key": "9Xv7upypzbbegCUr64yVPwbeDrR4YpaNV7X48GQTW6hF"
+    }
+  }
+}

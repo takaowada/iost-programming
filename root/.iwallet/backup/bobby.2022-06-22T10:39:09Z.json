@@ -1,0 +1,15 @@
+{
+  "name": "bobby",
+  "keypairs": {
+    "active": {
+      "raw_key": "5pf2Q48LsQJkCP5kq1xKE76BBdktXQJ1YBacfH6ZoDGnsZqSC4gLsbjKvRwob4NhPXELkwYbZ8jhiCyp1byhNh9g",
+      "key_type": "ed25519",
+      "public_key": "D8kz3RQXfNLXgGK8bB39R1QCq6Z59VxTEeKYiuDo13fU"
+    },
+    "owner": {
+      "raw_key": "5pf2Q48LsQJkCP5kq1xKE76BBdktXQJ1YBacfH6ZoDGnsZqSC4gLsbjKvRwob4NhPXELkwYbZ8jhiCyp1byhNh9g",
+      "key_type": "ed25519",
+      "public_key": "D8kz3RQXfNLXgGK8bB39R1QCq6Z59VxTEeKYiuDo13fU"
+    }
+  }
+}

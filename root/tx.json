@@ -1,0 +1,25 @@
+{
+    "time": "1655567762863225678",
+    "expiration": "1655567852863225678",
+    "gasRatio": 1,
+    "gasLimit": 1000000,
+    "delay": "0",
+    "chainId": 1020,
+    "actions": [
+        {
+            "contract": "token.iost",
+            "actionName": "transfer",
+            "data": "[\"iost\",\"admin\",\"bobby\",\"10\",\"\"]"
+        }
+    ],
+    "amountLimit": [
+        {
+            "token": "*",
+            "value": "unlimited"
+        }
+    ],
+    "signers": [],
+    "signatures": [],
+    "publisher": "",
+    "publisherSigs": []
+}
