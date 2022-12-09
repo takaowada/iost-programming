@@ -2,14 +2,14 @@
   "name": "alice",
   "keypairs": {
     "active": {
-      "raw_key": "3Goa86FuoiAz3xFJxSMfMrTky1ehLXPWfzh5dx6qcV4nAacxkKZfbyb4mLnGkGr4Jhy9NFE59iXfsRPEd1nMgZ17",
+      "raw_key": "HPnQJ6haPGMA6eyjuAkWdEYdxtX9n7nwxvtPLVhMaoJBExvambgXNVLC4B2QjkH8PVKrEmK3v6jNmRokgaXRZQW",
       "key_type": "ed25519",
-      "public_key": "BnmmMpVRaFcC2aUuE5TeVe8fc5qTven25cjcyzdstdvM"
+      "public_key": "8shqMi5xAQmYwVKY1EPbGdgwEVEAdw6zER51VkrQbLVp"
     },
     "owner": {
-      "raw_key": "3Goa86FuoiAz3xFJxSMfMrTky1ehLXPWfzh5dx6qcV4nAacxkKZfbyb4mLnGkGr4Jhy9NFE59iXfsRPEd1nMgZ17",
+      "raw_key": "HPnQJ6haPGMA6eyjuAkWdEYdxtX9n7nwxvtPLVhMaoJBExvambgXNVLC4B2QjkH8PVKrEmK3v6jNmRokgaXRZQW",
       "key_type": "ed25519",
-      "public_key": "BnmmMpVRaFcC2aUuE5TeVe8fc5qTven25cjcyzdstdvM"
+      "public_key": "8shqMi5xAQmYwVKY1EPbGdgwEVEAdw6zER51VkrQbLVp"
     }
   }
 }

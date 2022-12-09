@@ -2,14 +2,14 @@
   "name": "bobby",
   "keypairs": {
     "active": {
-      "raw_key": "mdx8zeW4Wf6cc1XADhnGwcCQeZBoAqwAb3G135Esnh5PNTo8Y9Z53ZQhe8J6ngucT1rdB5yaRfvDJx7MX1AvKpB",
+      "raw_key": "2wXNZYHN2VfwYLKPechxBJ3ApmqxKcZmXA7nX3VB2nWxeyG1zKWkgWNN16AGvhiQj11mpaGo2jfDzig6JXECJW5D",
       "key_type": "ed25519",
-      "public_key": "3XVBuvhG1ge5eh5wimhXVdRSrumnwND16aMTMTP1Sj3D"
+      "public_key": "AsFVwuQPZUEnkv3yUiFFdzDX2YbiQDrPk6e1pK4bChAX"
     },
     "owner": {
-      "raw_key": "mdx8zeW4Wf6cc1XADhnGwcCQeZBoAqwAb3G135Esnh5PNTo8Y9Z53ZQhe8J6ngucT1rdB5yaRfvDJx7MX1AvKpB",
+      "raw_key": "2wXNZYHN2VfwYLKPechxBJ3ApmqxKcZmXA7nX3VB2nWxeyG1zKWkgWNN16AGvhiQj11mpaGo2jfDzig6JXECJW5D",
       "key_type": "ed25519",
-      "public_key": "3XVBuvhG1ge5eh5wimhXVdRSrumnwND16aMTMTP1Sj3D"
+      "public_key": "AsFVwuQPZUEnkv3yUiFFdzDX2YbiQDrPk6e1pK4bChAX"
     }
   }
 }

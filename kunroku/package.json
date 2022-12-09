@@ -1,0 +1,24 @@
+{
+  "name": "kunroku",
+  "version": "0.1.0",
+  "description": "Sample codes for kunroku/iost",
+  "main": "index.js",
+  "author": "Takao Wada",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@kunroku/iost": "^2.2.0",
+    "bs58": "^5.0.0",
+    "gs": "^0.0.2",
+    "iost": "^0.1.22",
+    "path": "^0.12.7",
+    "tweetnacl": "^1.0.3",
+    "tweetnacl-util": "^0.15.1"
+  },
+  "devDependencies": {
+    "@types/node": "^18.8.5",
+    "ts-node": "^10.9.1",
+    "tslib": "^2.4.0",
+    "typescript": "^4.8.4"
+  }
+}
